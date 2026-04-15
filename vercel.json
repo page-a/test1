@@ -1,7 +1,3 @@
 {
-  "name": "drops",
-  "version": 1,
-  "buildCommand": "",
-  "framework": "static",
-  "public": true
+  "version": 2
 }
